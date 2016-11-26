@@ -22,9 +22,9 @@
 #player #volume{ width:70px; right:33px; }
 #player #volumeSlider{ width:14px; background:url(sizerAndVol.png); }
 
-#playlist,#playlist .module,#playlist h3{ border-color:#333;}
-#playlist .module{  color:#333; background-color:white; }
+#playlist,#playlist .module,#playlist h3{ border-color:#fbf6f5;}
+#playlist .module{  color:#333; background-color:#fbf6f5; }
 #playlist h3{ color:#fff; background-color:#333;  }
-#playlist .even{background-color:white;}
+#playlist .even{background-color:#fbf6f5;}
 #playlist .odd{ background-color:#eee;}
-#playlist .focus{ background-color:#666; color:#FFF;}
+#playlist .focus{ background-color:#666; color:#fbf6f5;}
